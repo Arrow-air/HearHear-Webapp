@@ -1,0 +1,11 @@
+name = "worker"
+main = "src/index.ts"
+compatibility_date = "2023-05-09"
+
+[vars]
+AWS_ACCESS_KEY_ID="AKIARNJDTQJMQCKVLTR7"
+AWS_SECRET_ACCESS_KEY="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"
+S3_BUCKET_NAME="hearhear-dev"
+S3_BUCKET_REGION="us-west-1"
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlqZXpnaHl1cWJ6d3hvb3ZubHdvIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI0NjU0NzYsImV4cCI6MTk5ODA0MTQ3Nn0.2byOSUz8WU2RdBi5tlrSbTaoiA80s-dflbrOOcbF4kg"
+OPENAI_API_KEY="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"
